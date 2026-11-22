@@ -19,7 +19,7 @@
 
 ## 2. Simuler une matrice de L lignes et C colonnes avec une liste
 
-On crée une liste à L*C cases. L'élément placé à la ligne l et colonne c sera à la position l*C +c
+On crée une liste à L * C cases. L'élément placé à la ligne l et colonne c sera à la position l * C +c
 
 
 ## 3. Attributs nécessaires
